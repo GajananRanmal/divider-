@@ -1,0 +1,9 @@
+path: C:/Users/Gajanan Ranmal/OneDrive/Desktop/SWACH/datasets/divider_dirtiness
+
+train: images/train
+val: images/val
+
+names:
+  0: less_dirty
+  1: medium_dirty
+  2: very_dirty

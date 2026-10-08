@@ -51,17 +51,14 @@ build/
 runs/
 wandb/
 weights/
-*.pt
+ 
 *.onnx
 *.engine
 
 # ==============================
 # Datasets
 # ==============================
-datasets/
-dataset/
-data/
-*.zip
+ 
 
 # ==============================
 # Logs / temporary files
